@@ -3,7 +3,7 @@
 Epidural electrical spinal cord stimulation can improve motor control in animal models and humans with spinal cord injury. The current understanding is that the stimulation excites sensorimotor circuits below the injury by interacting with the natural activity of large afferent fibers entering into the spinal cord from the dorsal roots. Here, we built a computational framework to study the mechanisms of this interaction.
 
 This repository contains the code of the neural simulations performed in:  
-Balaguer, JM. et al., Supraspinal control of motoneurons after paralysis enabled by spinal cord stimulation
+Balaguer, JM. et al., Neural Mechanisms Underlying the Recovery of Voluntary Control of Motoneurons After Paralysis with Spinal Cord Stimulation
 
 and was built upon the biophysical model developed in: Formento, E. et al., Nature Neuroscience (2018).
 
